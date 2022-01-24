@@ -47,19 +47,6 @@ function Titulo(props) {
     )
 }
 
-// function HomePage() {
-//     return (
-//     <>
-//         <GlobalStyle />
-//         <Title tag="h2">Boas vindas de volta</Title>
-//         <h2>Discord</h2>
-//     </>
-//     )
-    
-//   }
-  
-//   export default HomePage
-
 export default function PaginaInicial() {
     const username = 'umExDev';
   
